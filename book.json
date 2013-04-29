@@ -1,0 +1,7 @@
+{
+  layout : "index.html",
+  files : [
+    "chapter1.html",
+    "chapter2.html"
+  ]
+}
