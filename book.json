@@ -1,6 +1,6 @@
 {
-  layout : "index.html",
-  files : [
+  "layout" : "layout.html",
+  "files" : [
     "chapter1.html",
     "chapter2.html"
   ]
