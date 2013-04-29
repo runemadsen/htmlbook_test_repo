@@ -1,2 +1,4 @@
-htmlbook_test_repo
+HTMLBook Tiny Test
 ==================
+
+Just testing...
